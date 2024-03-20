@@ -66,19 +66,8 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-     - assets/background/background.png
-     - assets/background/backgroundseite2.png
-     - assets/background/House.png
-     - assets/background/TabBar.png
-     - assets/Modal/Hourly.png
-     - assets/Weekdays/monday.png
-     - assets/Weekdays/thuesday.png
-     - assets/Weekdays/wensday.png
-     - assets/Weekdays/thirsday.png
-     - assets/Weekdays/friday.png
-     - assets/Weekdays/saturday.png
-     - assets/Weekdays/sunday.png
-     - assets/WeatherCardSmall.png
+     - assets/
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
