@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:weather_app/Weather/models/weather_card.dart';
+import 'package:weather_app/Weather/Models/weather_card.dart';
 import 'package:weather_app/const/BoxDeco/boxdecoration.dart';
-import 'package:weather_app/home/repositories/weather_repository.dart';
+import 'package:weather_app/repositories/weather_repository.dart';
 
 class WeatherScreen extends StatefulWidget {
   const WeatherScreen({super.key, required this.weatherRepository});

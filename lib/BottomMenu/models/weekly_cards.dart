@@ -9,6 +9,7 @@ class WeeklyCards extends StatelessWidget {
       height: 200,
       width: 55,
       decoration: const BoxDecoration(
+        color: Colors.black,
         borderRadius: BorderRadius.all(Radius.circular(27.5)),
       ),
     );

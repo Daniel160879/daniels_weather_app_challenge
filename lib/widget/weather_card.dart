@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:weather_app/const/BoxDeco/boxdecoration.dart';
 import 'package:weather_app/const/TextStyle/textstyle.dart';
 import 'package:weather_app/home/models/weather.dart';
-import 'package:weather_app/home/repositories/weather_repository.dart';
+import 'package:weather_app/repositories/weather_repository.dart';
 import 'package:weather_app/BottomMenu/bottom_menu.dart';
 
 class WeatherCard extends StatefulWidget {

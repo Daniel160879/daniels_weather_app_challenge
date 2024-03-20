@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:weather_app/widget/tab_bar.dart';
-import 'package:weather_app/widget/weather_card.dart';
-
+import 'package:weather_app/Widget/tab_bar.dart';
+import 'package:weather_app/Widget/weather_card.dart';
 import '../const/BoxDeco/boxdecoration.dart';
 
 class HomePage extends StatefulWidget {

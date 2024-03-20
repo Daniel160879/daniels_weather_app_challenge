@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:weather_app/Weather/weather.dart';
 import 'package:weather_app/const/BoxDeco/boxdecoration.dart';
-import 'package:weather_app/home/repositories/weather_repository.dart';
+import 'package:weather_app/repositories/weather_repository.dart';
 
 class Tabbar extends StatefulWidget {
   const Tabbar({super.key});
